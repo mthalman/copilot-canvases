@@ -1,0 +1,17 @@
+{
+  "name": "copilot-canvases",
+  "owner": {
+    "name": "mthalman"
+  },
+  "metadata": {
+    "description": "Independently installable canvas plugins for GitHub Copilot."
+  },
+  "plugins": [
+    {
+      "name": "starter-canvas",
+      "description": "A minimal canvas plugin to copy when building a new canvas.",
+      "version": "0.1.0",
+      "source": "./plugins/starter-canvas"
+    }
+  ]
+}
