@@ -8,10 +8,16 @@
   },
   "plugins": [
     {
-      "name": "starter-canvas",
-      "description": "A minimal canvas plugin to copy when building a new canvas.",
+      "name": "ci-runs",
+      "description": "Dashboard of Copilot sessions, pull requests, and Azure Pipelines and GitHub Actions CI runs.",
+      "version": "0.3.0",
+      "source": "./plugins/ci-runs"
+    },
+    {
+      "name": "copilot-activity",
+      "description": "Local Copilot activity dashboard for sessions, tokens, pull requests, and events.",
       "version": "0.1.0",
-      "source": "./plugins/starter-canvas"
+      "source": "./plugins/copilot-activity"
     }
   ]
 }

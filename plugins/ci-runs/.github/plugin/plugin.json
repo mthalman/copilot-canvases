@@ -1,0 +1,10 @@
+{
+  "name": "ci-runs",
+  "description": "Dashboard of Copilot sessions, pull requests, and Azure Pipelines and GitHub Actions CI runs.",
+  "version": "0.3.0",
+  "author": {
+    "name": "mthalman"
+  },
+  "license": "MIT",
+  "extensions": "extensions"
+}

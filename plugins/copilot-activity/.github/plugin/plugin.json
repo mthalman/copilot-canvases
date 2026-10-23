@@ -1,0 +1,10 @@
+{
+  "name": "copilot-activity",
+  "description": "Local Copilot activity dashboard for sessions, tokens, pull requests, and events.",
+  "version": "0.1.0",
+  "author": {
+    "name": "mthalman"
+  },
+  "license": "MIT",
+  "extensions": "extensions"
+}

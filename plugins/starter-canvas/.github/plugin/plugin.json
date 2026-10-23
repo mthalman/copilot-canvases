@@ -1,9 +1,0 @@
-{
-  "name": "starter-canvas",
-  "description": "A minimal canvas plugin to copy when building a new canvas.",
-  "version": "0.1.0",
-  "author": {
-    "name": "mthalman"
-  },
-  "extensions": "extensions"
-}
