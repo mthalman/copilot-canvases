@@ -1,0 +1,23 @@
+{
+  "name": "copilot-canvases",
+  "owner": {
+    "name": "mthalman"
+  },
+  "metadata": {
+    "description": "Independently installable canvas plugins for GitHub Copilot."
+  },
+  "plugins": [
+    {
+      "name": "ci-runs",
+      "description": "Dashboard of Copilot sessions, pull requests, and Azure Pipelines and GitHub Actions CI runs.",
+      "version": "0.3.0",
+      "source": "./plugins/ci-runs"
+    },
+    {
+      "name": "copilot-activity",
+      "description": "Local Copilot activity dashboard for sessions, tokens, pull requests, and events.",
+      "version": "0.1.0",
+      "source": "./plugins/copilot-activity"
+    }
+  ]
+}

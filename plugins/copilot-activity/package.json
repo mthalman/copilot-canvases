@@ -1,0 +1,19 @@
+{
+  "name": "copilot-activity",
+  "version": "0.1.0",
+  "description": "GitHub Copilot app canvas extension summarizing local Copilot activity (sessions, tokens, PRs, events) for a chosen time period.",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "test": "node --test test/*.test.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mthalman/copilot-canvases.git",
+    "directory": "plugins/copilot-activity"
+  },
+  "license": "MIT"
+}
